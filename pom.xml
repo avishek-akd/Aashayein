@@ -24,7 +24,7 @@
 		<jstl.version>1.2</jstl.version>
 		<fileUpload.version>1.3.3</fileUpload.version>
 		<javaxMail.version>1.4.7</javaxMail.version>
-		<jacksonDatabind.version>2.9.8</jacksonDatabind.version>
+		<jacksonDatabind.version>2.9.10.7</jacksonDatabind.version>
 		<freemarker.version>2.3.28</freemarker.version>
 		<apachePOI.version>3.17</apachePOI.version>
 		<maven.war.plugin.version>3.2.2</maven.war.plugin.version>
